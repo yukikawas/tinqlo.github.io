@@ -6,5 +6,5 @@
 [Steam](https://steamcommunity.com/id/furry-yuki)  
 [Twitter](https://twitter.com/yukikawaqaq)  
 ### 自己的小项目：  
-1. 基于python selenium 和 firefox geckodriver 的 Giwifi 自动认证脚本 [Giwifi-Auto-Auth-Public](https://github.com/TinQlo/Giwifi-Auto-Auth-Public)  
-2. 简单python log tool [LogFly](https://github.com/TinQlo/LogFly)  
+1. [Giwifi-Auto-Auth-Public](https://github.com/TinQlo/Giwifi-Auto-Auth-Public) 基于python selenium 和 firefox geckodriver 的 Giwifi 自动认证脚本  
+2. [LogFly](https://github.com/TinQlo/LogFly) 简单python log tool  
