@@ -4,12 +4,12 @@
 
 ![我的设定](/img/yukikawa_fursona.jpg)  
 #### 我的fursona  
-名字叫雪川，是一只可爱的粉白猫猫，所以混熟了大家都叫我雪猫猫、雪猫咪~~和受川川~~
+名字叫雪川，是一只可爱的粉白猫猫，所以混熟了大家都叫我雪猫猫、雪猫咪、~~雪糕和受川川~~
 #### 我的详细介绍  
 1. 活动于山东青岛/潍坊，但因COVID-19疫情的影响出行受阻，可能被困其中一地  
 2. ~~万金油专业~~机电一体化大专毕业生，机电设备调维小助手，你平常看到的通上电或压缩空气就能动的东西都是我的菜。~~（SM现场除外）~~  
 3. 目前业余学习 python 和 C，面向Google/StackOverflow编程  
-4. [小鹤双拼](https://help.flypy.com/#/up) 使用者，节奏真的很舒服，力推 ~~（不，我没有收广告费）~~  
+4. [小鹤双拼](https://help.flypy.com/#/up) 使用者，节奏十分舒服，力推 ~~（不，我没有收广告费）~~  
 5. 业余无线电爱好者，A类操作证，呼号 BI4LNE [QRZ.com主页](https://www.qrz.com/db/BI4LNE)
   
 ### 自己写的小项目：  
@@ -21,3 +21,10 @@
 [Steam](https://steamcommunity.com/id/furry-yuki)  
 [Twitter](https://twitter.com/yukikawaqaq)  
 [E-Mail](mailto:orisui@icloud.com)  
+[GPG Key](/files/Yukikawa_0x249F04F9_public.asc)   
+fingerprint is  
+250D3 B5726 179C7 7E846  
+B7EED C3E65 8B249 F04F9  
+
+### 友情链接：  
+[猫喵](https://catme0w.org/)
