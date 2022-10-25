@@ -21,10 +21,6 @@
 [Steam](https://steamcommunity.com/id/furry-yuki)  
 [Twitter](https://twitter.com/yukikawaqaq)  
 [E-Mail](mailto:orisui@icloud.com)  
-[GPG Key](/files/Yukikawa_0x249F04F9_public.asc)   
-fingerprint is  
-250D3 B5726 179C7 7E846  
-B7EED C3E65 8B249 F04F9  
 
 ### 友情链接：  
 [猫喵](https://catme0w.org/)
