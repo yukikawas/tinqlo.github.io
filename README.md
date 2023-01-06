@@ -3,23 +3,22 @@
 ### 关于我
 
 ![我的设定](/img/yukikawa_fursona.jpg)  
-#### 我的fursona  
+#### 我的 fursona  
 名字叫雪川，是一只可爱的粉白猫猫，所以混熟了大家都叫我雪猫猫、雪猫咪、~~雪糕和受川川~~
 #### 我的详细介绍  
-1. 活动于山东青岛/潍坊，但因COVID-19疫情的影响出行受阻，可能被困其中一地  
+1. 活动于山东青岛/潍坊，COVID-19 政策已放开，理论上不会被封控    
 2. ~~万金油专业~~机电一体化大专毕业生，机电设备调维小助手，你平常看到的通上电或压缩空气就能动的东西都是我的菜。~~（SM现场除外）~~  
-3. 目前业余学习 python 和 C，面向Google/StackOverflow编程  
+3. 目前业余学习 python, web 开发三件套 和 C，面向Google/StackOverflow编程  
 4. [小鹤双拼](https://help.flypy.com/#/up) 使用者，节奏十分舒服，力推 ~~（不，我没有收广告费）~~  
-5. 业余无线电爱好者，A类操作证，呼号 BI4LNE [QRZ.com主页](https://www.qrz.com/db/BI4LNE)
+5. 业余无线电爱好者，A 类操作证，呼号 BI4LNE [QRZ.com主页](https://www.qrz.com/db/BI4LNE)
   
 ### 自己写的小项目：  
-1. [Giwifi-Auto-Auth-Public](https://github.com/TinQlo/Giwifi-Auto-Auth-Public) 基于 python selenium 和 firefox geckodriver 的 Giwifi 自动认证脚本  
-2. [LogFly](https://github.com/TinQlo/LogFly) 简单的 python 打 log 小工具（自造轮子，当初造的时候还不懂logging）  
+1. [Giwifi-Auto-Auth-Public](https://github.com/TinQlo/Giwifi-Auto-Auth-Public) 基于 python selenium 和 firefox geckodriver 的 Giwifi 自动认证脚本， ~~（有朝一日可能会重构成Windows&Linux通用版）~~  
+2. [LogFly](https://github.com/TinQlo/LogFly) 简单的 python 打 log 小工具（自造轮子，当初造的时候还不懂 logging）  
 3. [Height-calculator](https://github.com/TinQlo/Height-calculator) 身高计算器 python 版，~~输入你的身高就可计算出你的身高~~
 
 ### 娱乐 or 联系我：  
 [Steam](https://steamcommunity.com/id/furry-yuki)  
-[Twitter](https://twitter.com/yukikawaqaq)  
 [E-Mail](mailto:orisui@icloud.com)  
 
 ### 友情链接：  
