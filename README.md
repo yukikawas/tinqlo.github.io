@@ -1,4 +1,4 @@
-## 雪川Yukikawa!
+## 雪川Yukikawa
 
 ### 关于我
 
